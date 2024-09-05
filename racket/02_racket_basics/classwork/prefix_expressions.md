@@ -1,7 +1,5 @@
 # Classwork 01: Prefix Expressions
 
-```Save your work in your assignments repo: classwork/01_prefix_expressions/prefix_expressions.md```
-
 **Directions:** Evaluate the following expressions
 
 | Expression | Value |
