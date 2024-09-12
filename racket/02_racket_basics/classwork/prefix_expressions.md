@@ -1,6 +1,6 @@
 # Classwork 01: Prefix Expressions
 
-**Directions:** Evaluate the following expressions
+**Directions:** On your notebook, evaluate the following expressions
 
 | Expression | Value |
 | ---------- | ----- |
